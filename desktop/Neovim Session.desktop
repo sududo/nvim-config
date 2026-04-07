@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Neovim Session
+Exec=/home/john/.config/nvim/desktop/Neovim-Session.sh %F
+Icon=/home/john/shit/nvim-linux-x86_64/share/icons/hicolor/128x128/apps/nvim.png
+Terminal=true
+Name=Neovim Session
+MimeType=text/x-vim;
+

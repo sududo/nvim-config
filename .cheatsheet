@@ -1,0 +1,33 @@
+Folding:
+  'za' - toggle fold at cursor
+  'zc' - close fold at cursor
+  'zo' - open fold at cursor
+  'zM' - close all folds
+  'zR' - open all folds
+  'zj' - cursor to next fold
+  'zk' - cursor to previous fold
+
+
+Tree:
+  ',to' - open tree
+  ',tc' - close tree
+
+UndoTree:
+  ',uo' - open undotree
+  ',uc' - close undoree
+
+Shortcuts:
+  ',riw' - replace internal word
+  ',rp' - replace selection
+
+  ':Help' - this screen
+  ':Config' - opens up init.lua in .config/nvim/
+  ':Reboot' - saves session and reboots nvim
+  ':SeshSave' - saves the session into ./sesh.vim
+  ':SeshOpen' - opens the session from ./sesh.vim
+
+Telescope:
+  ',ff' - find files
+  ',fg' - live grep
+  ',fb' - find buffers
+  ',fh' - help tags
